@@ -164,7 +164,7 @@ background-color: #ffb6da;
   }
 
 #parallax-group-1 {
-  background-image: url("media/cover.gif");
+  background-image: url("cover.gif");
 	  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -173,7 +173,7 @@ background-color: #ffb6da;
 }
 
 #parallax-group-2 {
-  background-image: url("media/anorexia.jpg");
+  background-image: url("anorexia.jpg");
 	background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -181,7 +181,7 @@ background-color: #ffb6da;
 }
 
 #parallax-group-3 {
-  background-image: url("media/spread.gif");
+  background-image: url("spread.gif");
 	  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -189,7 +189,7 @@ background-color: #ffb6da;
 }
 
 #parallax-group-4 {
-  background-image: url("media/overeating.jpg");
+  background-image: url("overeating.jpg");
 	  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -198,14 +198,14 @@ background-color: #ffb6da;
 }
 
 #parallax-group-5 {
-  background-image: url("media/cheescake.gif");
+  background-image: url("cheescake.gif");
 	  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 #parallax-group-6 {
-  background-image: url("media/dismorphy.jpg");
+  background-image: url("dismorphy.jpg");
 	  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -213,7 +213,7 @@ background-color: #ffb6da;
 }
 
 #parallax-group-7 {
-  background-image: url("media/shugar.gif");
+  background-image: url("shugar.gif");
 	  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -221,7 +221,7 @@ background-color: #ffb6da;
 }
 
 #parallax-group-8 {
-  background-image: url("media/culturist.jpg");
+  background-image: url("culturist.jpg");
 	  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -229,7 +229,7 @@ background-color: #ffb6da;
 }
 
 #parallax-group-9 {
-  background-image: url("media/ending.jpg");
+  background-image: url("ending.jpg");
 	  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
