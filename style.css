@@ -293,7 +293,7 @@ li {
 
 .parallax {
   perspective: 1px;
-  height: 90vh;
+  height: 100vh;
   overflow-x: hidden;
   overflow-y: auto;
   background-color: #353941;
@@ -302,7 +302,7 @@ li {
 
 .parallax__group {
   position: relative;
-  height: 90vh;
+  height: 100vh;
   transform-style: preserve-3d;
   box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
