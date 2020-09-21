@@ -346,11 +346,7 @@ li {
   background-size: cover;
 }
 
-@media screen and (max-width: 800px) {
-  #parallax-group-2 {
-    background-image: url("anorexia-vertical.jpg");
-  }
-}
+
 
 #parallax-group-3 {
   background-image: url("spread.gif");
@@ -367,11 +363,7 @@ li {
   background-repeat: no-repeat;
   background-size: cover;
 }
-@media screen and (max-width: 800px) {
-  #parallax-group-4 {
-    background-image: url("overeating-vertical.jpg");
-  }
-}
+
 
 #parallax-group-5 {
   background-image: url("fork-horizontal.jpg");
@@ -381,11 +373,6 @@ li {
   background-size: cover;
 }
 
-@media screen and (max-width: 800px) {
-  #parallax-group-5 {
-    background-image: url("fork.jpg");
-  }
-}
 
 
 #parallax-group-6 {
@@ -411,11 +398,7 @@ li {
   background-repeat: no-repeat;
   background-size: cover;
 }
-@media screen and (max-width: 800px) {
-  #parallax-group-8 {
-    background-image: url("culturist-vertical.jpg");
-  }
-}
+
 
 #parallax-group-9 {
   background-image: url("ending.jpg");
@@ -425,11 +408,6 @@ li {
   background-size: cover;
 }
 
-@media screen and (max-width: 800px) {
-  #parallax-group-9 {
-    background-image: url("ending-vertical.jpg");
-  }
-}
 
 /*__________________________________________________ Quiz */
 
