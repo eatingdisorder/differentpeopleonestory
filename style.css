@@ -598,3 +598,10 @@ button {
 		width: 100%;
   }
 }
+
+
+.videowrapper {
+  display:flex;
+  justify-content: center;
+  padding: 2em;
+}
