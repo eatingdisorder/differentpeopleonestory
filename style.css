@@ -33,8 +33,7 @@ video {
 
 /*--_____________________________________________*/
 
-html {
-}
+
 
 body {
   background: #353941;
@@ -49,6 +48,7 @@ body {
   top: 0;
   z-index: 2;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+  width: 100%;
 }
 #navbar a {
   float: left;
@@ -186,7 +186,10 @@ a:visited {
 }
 
 
-
+#coverimage {
+  max-width: 100%;
+  width: -webkit-max-content;
+}
 
 .dividing-line {
   height: 2px;
